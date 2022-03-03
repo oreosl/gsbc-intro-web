@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-# Project:
+# Project: (README)
 # Biography:
 <p> Omar is a senior at Golden State Baptist College. He was born and raised in Salinas , Ca. He is studying for a pastoral assistant major with a minor in media. His plan after graduation is returning to his home church for at least a year and to wait for the next step where God would have him do it. He currently serves in his home church with the children’s ministries. </p>
 
